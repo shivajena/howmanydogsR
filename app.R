@@ -6,6 +6,7 @@ library(ggplot2)
 library(plotly)
 library(purrr)
 library(tidyverse)
+library(ggthemes)
 
 # Read in data
 traits_raw_df <-  read_csv("data/breed_traits.csv")
