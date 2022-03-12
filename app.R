@@ -5,7 +5,6 @@ library(dashCoreComponents)
 library(ggplot2)
 library(plotly)
 library(purrr)
-library(tidyverse)
 library(ggthemes)
 
 # Read in data
